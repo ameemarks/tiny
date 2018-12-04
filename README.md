@@ -1,5 +1,7 @@
 # @ameemarks/tiny
 
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/react.svg)](https://github.com/ameemarks/tiny)
+
 Removes all spaces from a string.
 
 ## Install
